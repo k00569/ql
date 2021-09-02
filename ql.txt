@@ -1,3 +1,1 @@
-wget -q https://ra
-w.githubusercontents.com/Oreomeow/VIP/main/Scripts/s
-h/ql.sh -0 ql.sh && bash ql.sh
+wget -q https://raw.githubusercontents.com/Oreomeow/VIP/main/Scripts/sh/ql.sh -0 ql.sh && bash ql.sh
